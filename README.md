@@ -15,6 +15,9 @@ I specialize in both front-end and back-end development, with proficiency in:
 - jQuery
 - AJAX
 - REST API
+- Java
+- C++
+- Arduino
 
 ## 🚀 Current Project
 
