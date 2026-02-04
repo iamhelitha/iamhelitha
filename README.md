@@ -17,11 +17,14 @@
 
 🐘 **EleFind** (closed source) – AI-powered elephant detection system using YOLOv11 for wildlife conservation.
 
+🌐 **[NetJump VPN](https://dash.netjump.space/)** (closed source) – VPN service ensuring secure, reliable connectivity.
+
 ## Current Projects
 
-- 🌐 **[NetJump VPN](https://dsc.gg/ntjp)** - VPN service operator ensuring secure, reliable connectivity
-- ✈️ **Travel 19 Tours** - Leading web development team as Startup Manager
-- 🔌 **[3xui-api-client](https://github.com/iamhelitha/3xui-api-client)** - API client for 3x-ui panel management
+- ✈️ **[Travel 19 Tours](https://github.com/iamhelitha/travel-19-tours)** - Leading web development team as Startup Manager
+- 🎮 **[heartAPIGame](https://github.com/iamhelitha/heartAPIGame)** - Distributed service architecture project for Computer Science module assignment
+- 🔌 **[xui-api](https://github.com/iamhelitha/xui-api)** - Python server to connect with 3x-ui server and use API routes without CORS errors
+- 🔧 **[swap-file-setup](https://github.com/iamhelitha/swap-file-setup)** - Shell script to make swap files in Linux-based systems
 - 🎓 **[student-mgr-sys](https://github.com/iamhelitha/student-mgr-sys)** - Student management system
 
 ## GitHub Activity
@@ -46,7 +49,7 @@
 
 ## Connect
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://iamhelitha.github.io)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://helitha.me)
 [![LinkedIn](https://img.shields.io/badge/-Helitha_Guruge-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamhelitha)
 [![Instagram](https://img.shields.io/badge/-@iamhelitha-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/iamhelitha)
 [![Linktree](https://img.shields.io/badge/-Links-39E09B?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/iamhelitha)
@@ -65,15 +68,3 @@
 ### Philosophy
 
 > "Code with purpose, build with impact" - I create technology that solves real problems, from protecting wildlife to connecting people. Every line of code should make a difference.
-
-<details>
-<summary>Random Facts</summary>
-
-- Passionate about wildlife conservation through technology
-- Push/pull/legs devotee – consistency over intensity
-- Love creative writing and word games
-- Photography is meditation with a lens
-- Run infrastructure on OVHcloud/Hetzner stack
-- Believe in shipping fast and iterating faster
-
-</details>
