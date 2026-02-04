@@ -1,50 +1,79 @@
-![Black Minimal Business Personal Profile Linkedin Banner](https://github.com/iamhelitha/iamhelitha/assets/145540187/39f44c8a-36f6-4a43-85ca-0d1fc5580780)
+# Hi, I'm Helitha 👋
 
-# Hi there! 👋
+📍 **Colombo, Sri Lanka** | 🎓 **BSc Computer Science @ SCU** | 🚀 **Startup Manager @ Travel 19 Tours**
 
-I'm Helitha Guruge, an undergraduate software engineer at the University of Bedfordshire in the United Kingdom. My passion lies in creating web solutions that enhance business functionality and accessibility.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![YOLOv11](https://img.shields.io/badge/-YOLOv11-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![OVHcloud](https://img.shields.io/badge/-OVHcloud-123F6D?style=flat-square&logo=ovh&logoColor=white)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamhelitha) 
-[![](https://visitcount.itsvg.in/api?id=iamhelitha&icon=0&color=0)](https://visitcount.itsvg.in)
+> Building at the intersection of AI and real-world impact – from wildlife conservation to seamless connectivity. Currently managing startup operations while studying CS and shipping production-grade ML systems.
 
+🐘 **EleFind** (closed source) – AI-powered elephant detection system using YOLOv11 for wildlife conservation.
 
-## 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+## Current Projects
 
-## 🚀 Current Project
+- 🌐 **[NetJump VPN](https://dsc.gg/ntjp)** - VPN service operator ensuring secure, reliable connectivity
+- ✈️ **Travel 19 Tours** - Leading web development team as Startup Manager
+- 🔌 **[3xui-api-client](https://github.com/iamhelitha/3xui-api-client)** - API client for 3x-ui panel management
+- 🎓 **[student-mgr-sys](https://github.com/iamhelitha/student-mgr-sys)** - Student management system
 
-I'm currently working on a web application for an e-commerce website dedicated to a Computer shop. This involves crafting a seamless user experience through both frontend and backend development.
+## GitHub Activity
 
-## 🌱 Learning
+![GitHub Contribution Graph](https://ghchart.rshah.org/iamhelitha)
 
-I'm enthusiastic about staying up-to-date with the latest trends in technology, particularly in the realm of web application development. 
+## What I'm Doing
 
-## 👯 Let's Collaborate!
+- **Building with purpose** - Creating AI solutions for wildlife conservation and practical infrastructure tools
+- **Leading teams** - Managing startup operations and coordinating development workflows
+- **Studying & shipping** - Balancing CS degree with production deployments on OVHcloud/Hetzner
+- **Capturing moments** - Social Media Manager & Photographer at SCU Photographic Club
+- **Staying fit** - Push/pull/legs routine enthusiast and bodybuilding
 
-I'm always on the lookout for exciting projects to collaborate on during my free time. If you have an idea or project where you think I can contribute, let's work together and bring it to life!
+## Tech Focus
 
-## 📫 Get in Touch
+- **Machine Learning**: YOLOv11 object detection, computer vision for conservation
+- **Backend Development**: Node.js, PHP, Python-based APIs and services
+- **Database Architecture**: MySQL, MongoDB for scalable data solutions
+- **Infrastructure**: OVHcloud & Hetzner deployment, VPN operations
+- **Full-Stack**: End-to-end web application development
 
-Feel free to reach out to me at helithalochana@gmail.com. I'm open to discussions, collaborations, or just a friendly chat.
+## Connect
 
-Looking forward to connecting with fellow developers and enthusiasts! 🚀
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://iamhelitha.github.io)
+[![LinkedIn](https://img.shields.io/badge/-Helitha_Guruge-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamhelitha)
+[![Instagram](https://img.shields.io/badge/-@iamhelitha-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/iamhelitha)
+[![Linktree](https://img.shields.io/badge/-Links-39E09B?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/iamhelitha)
+[![Discord](https://img.shields.io/badge/-NetJump-5865F2?style=flat-square&logo=discord&logoColor=white)](https://dsc.gg/ntjp)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iamhelitha)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iamhelitha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+---
 
+### Background
 
-<!--
-**iamhelitha/iamhelitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Education**: BSc Computer Science at SCU (University of Bedfordshire)
+- **Leadership**: Startup Manager coordinating development teams
+- **Creative**: Social Media Manager & Photographer at SCU Photographic Club
+- **Operations**: NetJump VPN service operator
 
-Here are some ideas to get you started:
+### Philosophy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "Code with purpose, build with impact" - I create technology that solves real problems, from protecting wildlife to connecting people. Every line of code should make a difference.
+
+<details>
+<summary>Random Facts</summary>
+
+- Passionate about wildlife conservation through technology
+- Push/pull/legs devotee – consistency over intensity
+- Love creative writing and word games
+- Photography is meditation with a lens
+- Run infrastructure on OVHcloud/Hetzner stack
+- Believe in shipping fast and iterating faster
+
+</details>
