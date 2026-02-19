@@ -1,6 +1,6 @@
 # Hi, I'm Helitha 👋
 
-📍 **Colombo, Sri Lanka** | 🎓 **BSc Computer Science @ SCU** | 🚀 **Startup Manager @ Travel 19 Tours**
+📍 **Colombo, Sri Lanka** | 🎓 **BSc Computer Science @ SCU affliated to University of Bedfordshire** | 🚀 **Startup Manager @ Travel 19 Tours**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
