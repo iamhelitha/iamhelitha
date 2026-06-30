@@ -1,32 +1,55 @@
 # Hi, I'm Helitha 👋
 
-📍 **Colombo, Sri Lanka** | 🎓 **BSc Computer Science @ SCU affliated to University of Bedfordshire** | 🚀 **Startup Manager @ Travel 19 Tours**
+📍 **Colombo, Sri Lanka** | 🎓 **BSc (Hons) Computer Science — First Class · SCU / University of Bedfordshire** | 🚀 **CS Graduate & Builder**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![YOLOv11](https://img.shields.io/badge/-YOLOv11-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-![OVHcloud](https://img.shields.io/badge/-OVHcloud-123F6D?style=flat-square&logo=ovh&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 
-> Building at the intersection of AI and real-world impact – from wildlife conservation to seamless connectivity. Currently managing startup operations while studying CS and shipping production-grade ML systems.
+> Building at the intersection of AI and real-world impact — from wildlife conservation to production SaaS infrastructure. First Class CS graduate shipping ML systems, open-source tooling, and live platforms.
 
-- 🐘 **EleFind** (closed source) – AI-powered elephant detection system using YOLOv11 for wildlife conservation.
-- 🌐 **[NetJump VPN](https://dash.netjump.space/)** (closed source) – VPN service ensuring secure, reliable connectivity.
+## Start Here
+
+- 🐘 **[EleFind](https://huggingface.co/iamhelitha/EleFind-yolo11-elephant)** — AI elephant detection using YOLOv11 + SAHI (mAP50: 0.782)
+- 🌐 **[NetJump VPN](https://dashnetjump.space/)** — Live SaaS VPN platform with subscriber management dashboard
+- 📦 **[3xui-api-client](https://www.npmjs.com/package/3xui-api-client)** [![npm](https://img.shields.io/npm/v/3xui-api-client?style=flat-square&logo=npm)](https://www.npmjs.com/package/3xui-api-client) [![downloads](https://img.shields.io/npm/dw/3xui-api-client?style=flat-square&logo=npm&color=CB3837)](https://www.npmjs.com/package/3xui-api-client) — Node.js client library for 3X-UI panel API management
 
 ## Current Projects
 
-- ✈️ **[Travel 19 Tours](https://github.com/iamhelitha/travel-19-tours)** - Leading web development team as Startup Manager
-- 💈 **[Elite Grooming Studios](https://github.com/crimsonml/Elite-Grooming-Studios)** - Collaborated on a PHP-based grooming studio management system
-- 🕉️ **[Mahamevnawa Saskatoon Website](https://www.mahamevnawasaskatoon.com/)** - Built from scratch and migrated the Mahamevnawa Buddhist Centre Saskatoon website from Netlify to Squarespace, providing a modern platform for the Buddhist community with improved content management capabilities
-- 🎮 **[heartAPIGame](https://github.com/iamhelitha/heartAPIGame)** - Distributed service architecture project for Computer Science module assignment
-- 🔌 **[xui-api](https://github.com/iamhelitha/xui-api)** - Python server to connect with 3x-ui server and use API routes without CORS errors
-- 🔧 **[swap-file-setup](https://github.com/iamhelitha/swap-file-setup)** - Shell script to make swap files in Linux-based systems
-- 🎓 **[student-mgr-sys](https://github.com/iamhelitha/student-mgr-sys)** - Student management system
+### AI & Machine Learning
+
+- 🐘 **EleFind** *(Closed Source)* — Wildlife conservation system using YOLOv11 + SAHI for elephant detection
+  - 🤗 **Model:** [iamhelitha/EleFind-yolo11-elephant](https://huggingface.co/iamhelitha/EleFind-yolo11-elephant)
+  - 🖥️ **Web App:** [EleFind-webapp](https://github.com/iamhelitha/EleFind-webapp) — Next.js frontend with PostGIS
+  - 🎛️ **Demo UI:** [EleFind-gradio-ui](https://github.com/iamhelitha/EleFind-gradio-ui) — Gradio interface on Hugging Face Spaces
+
+### SaaS & Infrastructure
+
+- 🌐 **[NetJump VPN](https://dashnetjump.space/)** *(Closed Source)* — Production VPN service on DigitalOcean with PayHere payment integration and subscriber management dashboard
+- 💰 **Lendoman** *(Closed Source, In Development)* — Microfinance web app with RBAC, AG Grid Excel-like UX, and multi-role workflows
+
+### Open Source Tooling
+
+- 📦 **[3xui-api-client](https://github.com/iamhelitha/3xui-api-client)** — Node.js client library for 3X-UI panel API; full coverage of all 19 routes, TypeScript definitions, automatic session handling
+- 🐍 **[xui-api](https://github.com/iamhelitha/xui-api)** — Python server to proxy 3X-UI panel API routes and eliminate CORS errors
+- 🔧 **[swap-file-setup](https://github.com/iamhelitha/swap-file-setup)** — Interactive bash script for swap file setup on Linux VPS instances
+
+### Web Projects
+
+- ✈️ **[Travel 19 Tours](https://github.com/iamhelitha/travel-19-tours)** — Tourism booking system; led the web dev team as Startup Manager
+- 💈 **[Elite Grooming Studios](https://github.com/crimsonml/Elite-Grooming-Studios)** — PHP grooming studio management system with Stripe integration and role-based admin
+- 🕉️ **[Mahamevnawa Saskatoon](https://www.mahamevnawasaskatoon.com/)** — Buddhist centre website built from scratch and migrated to Squarespace
+- 🎮 **[heartAPIGame](https://github.com/iamhelitha/heartAPIGame)** — Distributed service architecture project for a CS module
+- 🎓 **[student-mgr-sys](https://github.com/iamhelitha/student-mgr-sys)** — Student management system
 
 ## GitHub Activity
 
@@ -34,23 +57,18 @@
 
 ## What I'm Doing
 
-- **Building with purpose** - Creating AI solutions for wildlife conservation and practical infrastructure tools
-- **Leading teams** - Managing startup operations and coordinating development workflows
-- **Studying & shipping** - Balancing CS degree with production deployments on OVHcloud/Hetzner
-- **Capturing moments** - Social Media Manager & Photographer at SCU Photographic Club
-
-## Tech Focus
-
-- **Machine Learning**: YOLOv11 object detection, computer vision for conservation
-- **Backend Development**: Node.js, PHP, Python-based APIs and services
-- **Database Architecture**: MySQL, MongoDB for scalable data solutions
-- **Infrastructure**: OVHcloud & Hetzner deployment, VPN operations
-- **Full-Stack**: End-to-end web application development
+- **Shipping open source** — Published npm package in active use by the 3X-UI/VPN community
+- **Building production AI** — Trained and deployed a wildlife conservation model on Hugging Face
+- **Running live SaaS** — Operating NetJump VPN with real subscribers on DigitalOcean
+- **Developing new products** — Lendoman microfinance platform in active development
+- **Capturing moments** — Treasurer & Photographer at SCU Photographic Club
 
 ## Connect
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://helitha.me)
 [![LinkedIn](https://img.shields.io/badge/-Helitha_Guruge-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamhelitha)
+[![Hugging Face](https://img.shields.io/badge/-iamhelitha-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/iamhelitha)
+[![npm](https://img.shields.io/badge/-iamhelitha-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~iamhelitha)
 [![Instagram](https://img.shields.io/badge/-@iamhelitha-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/iamhelitha)
 [![Linktree](https://img.shields.io/badge/-Links-39E09B?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/iamhelitha)
 [![Discord](https://img.shields.io/badge/-NetJump-5865F2?style=flat-square&logo=discord&logoColor=white)](https://dsc.gg/ntjp)
@@ -60,11 +78,12 @@
 
 ### Background
 
-- **Education**: BSc Computer Science at SCU (University of Bedfordshire)
-- **Leadership**: Startup Manager coordinating development teams
-- **Creative**: Social Media Manager & Photographer at SCU Photographic Club
+- **Education**: BSc (Hons) Computer Science — First Class · SCU / University of Bedfordshire
+- **Open Source**: Published npm package with real-world adoption in the VPN management space
+- **AI Research**: Trained and published a wildlife conservation model on Hugging Face
+- **Creative**: Treasurer & Photographer at SCU Photographic Club
 - **Operations**: NetJump VPN service operator
 
 ### Philosophy
 
-> "Code with purpose, build with impact" - I create technology that solves real problems, from protecting wildlife to connecting people. Every line of code should make a difference.
+> "Code with purpose, build with impact" — I create technology that solves real problems, from protecting wildlife to connecting people. Every line of code should make a difference.
