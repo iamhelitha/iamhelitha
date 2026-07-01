@@ -9,9 +9,6 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![YOLOv11](https://img.shields.io/badge/-YOLOv11-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 
@@ -19,9 +16,9 @@
 
 ## Start Here
 
-- 🐘 **[EleFind](https://huggingface.co/iamhelitha/EleFind-yolo11-elephant)** — AI elephant detection using YOLOv11 + SAHI (mAP50: 0.782)
+- 🐘 **[EleFind](https://huggingface.co/iamhelitha/EleFind-yolo11-elephant)** — AI elephant detection using YOLOv11 + SAHI (mAP50: 0.843)
 - 🌐 **[NetJump VPN](https://dashnetjump.space/)** — Live SaaS VPN platform with subscriber management dashboard
-- 📦 **[3xui-api-client](https://www.npmjs.com/package/3xui-api-client)** [![npm](https://img.shields.io/npm/v/3xui-api-client?style=flat-square&logo=npm)](https://www.npmjs.com/package/3xui-api-client) [![downloads](https://img.shields.io/npm/dw/3xui-api-client?style=flat-square&logo=npm&color=CB3837)](https://www.npmjs.com/package/3xui-api-client) — Node.js client library for 3X-UI panel API management
+- 📦 **[3xui-api-client](https://www.npmjs.com/package/3xui-api-client)** (10+ stars) — Node.js client library for 3X-UI panel API management
 
 ## Current Projects
 
