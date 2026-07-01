@@ -31,7 +31,7 @@
 
 ### SaaS & Infrastructure
 
-- 🌐 **[NetJump VPN](https://dashnetjump.space/)** *(Closed Source)* — Production VPN service on DigitalOcean with PayHere payment integration and subscriber management dashboard
+- 🌐 **[NetJump VPN](https://netjump.space/)** *(Closed Source)* — Production VPN server management panel (SaaS) with PayHere payment integration and subscriber management dashboard
 - 💰 **Lendoman** *(Closed Source, In Development)* — Microfinance web app with RBAC, AG Grid Excel-like UX, and multi-role workflows
 
 ### Open Source Tooling
